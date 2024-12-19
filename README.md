@@ -1,4 +1,4 @@
-![Screenshot 2024-12-19 162611](https://github.com/user-attachments/assets/871ce449-d8c2-4107-a324-85dc9e25fa37)# Ex09 Event Registration Web Application
+# Ex09 Event Registration Web Application
 ## Date:19/12/2024
 
 ## AIM:
